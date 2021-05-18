@@ -10,7 +10,7 @@ de otros autores, incribirse como voluntario, donar dinero, etc. Y en el caso de
 Usuarios, Voluntarios, etc y adicionalmente modificarlos.
 
 ## Construido con 🛠️
-La aplicacion fue desarrollada en PHP utilizando el framework LARAVEL version 8, se utilizo JIRA para la gestion tickets(implementando SCRUM)
+La aplicacion fue desarrollada en PHP utilizando el framework LARAVEL version 8, se utilizo JIRA para la gestion tickets, ya que se conformo un equipo de 4 desarrolladores y un PM(implementando SCRUM)
 y se uso bitbucket como repositorio online.
 
 ## Autor ✒️
